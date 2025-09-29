@@ -73,7 +73,7 @@
         border-top-left-radius: 1.5rem;
         border-bottom-right-radius: 1.5rem;
 
-        font: 600 var(--fs-sm); var(--ff-sans);
+        font: 600 var(--fs-sm) var(--ff-sans);
         text-transform: uppercase;
         letter-spacing: 0.08em;
         color: var(--bg-color);
